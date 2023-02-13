@@ -4,6 +4,6 @@ import eslint from 'vite-plugin-eslint'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/REPO_NAME/',
+  base: '/FM-003-NFT-Preview-Card-Component/',
   plugins: [react(), eslint()],
 })
