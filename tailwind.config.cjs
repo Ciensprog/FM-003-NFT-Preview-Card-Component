@@ -1,4 +1,4 @@
-// const { fontFamily } = require('tailwindcss/defaultTheme')
+const { fontFamily } = require('tailwindcss/defaultTheme')
 
 const colors = {
   cyan: '#00FFF8',
@@ -18,9 +18,9 @@ module.exports = {
       backgroundColor: colors,
       borderColor: colors,
       colors,
-      // fontFamily: {
-      //   montserrat: ['Montserrat', ...fontFamily.sans],
-      // },
+      fontFamily: {
+        outfit: ['Outfit', ...fontFamily.serif],
+      },
       minHeight: {
         screen: '100vh',
       },
