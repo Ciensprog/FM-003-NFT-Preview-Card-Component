@@ -22,7 +22,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/CHALLENGE_SOLUTION_URL_SLUG](https://www.frontendmentor.io/solutions/CHALLENGE_SOLUTION_URL_SLUG)
+- Solution URL: [https://www.frontendmentor.io/solutions/CHALLENGE_SOLUTION_URL_SLUG](https://www.frontendmentor.io/solutions/nft-preview-card-component-Nnnuw1iNrX)
 - Live Site URL: [https://ciensprog.github.io/FM-003-NFT-Preview-Card-Component/](https://ciensprog.github.io/FM-003-NFT-Preview-Card-Component/)
 
 ### Built with
