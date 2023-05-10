@@ -10,7 +10,6 @@ export function Attribution() {
       Challenge by{' '}
       <a
         href="https://www.frontendmentor.io?ref=challenge"
-        className="opacity-80 hover:opacity-100"
         target="_blank"
         rel="noreferrer"
       >
@@ -19,7 +18,6 @@ export function Attribution() {
       . Coded by{' '}
       <a
         href="https://www.frontendmentor.io/profile/Ciensprog"
-        className="opacity-80 hover:opacity-100"
         target="_blank"
         rel="noreferrer"
       >
