@@ -38,9 +38,9 @@ export function App() {
             </a>
           </figure>
           <section>
-            <h3 className="font-semibold mt-6 text-[1.375rem] text-white">
+            <h1 className="font-semibold mt-6 text-[1.375rem] text-white">
               Equilibrium #3429
-            </h3>
+            </h1>
             <p className="font-light mt-4 text-lg text-soft-blue">
               Our Equilibrium collection promotes balance and calm.
             </p>
